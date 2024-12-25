@@ -18,9 +18,9 @@ interface Language {
 const languages: Language[] = [
   {
     id: 1,
-    code: 'eng',
-    lang: 'English',
-    flag: 'twemoji:flag-united-kingdom',
+    code: 'en-IND',
+    lang: 'English (IND)',
+    flag: 'twemoji:flag-india',
   },
   {
     id: 2,

@@ -4,7 +4,7 @@ import { formatNumber } from 'functions/formatNumber';
 export const ordersStatusData: GridRowsProp = [
   {
     id: '#1532',
-    client: { name: 'John Carter', email: 'hello@johncarter.com' },
+    client: { name: 'Prathamesh J. Pawar', email: 'prathmesh@gmail.com' },
     date: new Date('Jan 30, 2024'),
     status: 'delivered',
     country: 'United States',
