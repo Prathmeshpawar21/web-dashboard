@@ -30,7 +30,7 @@ The Analytics Dashboard is designed to give users an intuitive interface to expl
    ```
 2. Navigate to the project directory:
    ```bash
-   cd analytics-dashboard
+   cd web-dashboard
    ```
 3. Install dependencies:
    ```bash
